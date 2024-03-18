@@ -1,0 +1,12 @@
+[minecraftConfig]
+    enabled = false
+    recipeDumpPath = "C:\\Users\\Jason\\RecipeDump.json"
+
+[factorioConfig]
+    enabled = false
+    recipeListerPath = "C:\\Users\\Jason\\AppData\\Roaming\\Factorio\\script-output\\recipe-lister"
+
+[starboundConfig]
+    enabled = false
+    installationDirectory = "I:\\SteamLibrary\\steamapps\\workshop\\content\\211820"
+    unpackDirectory = "E:\\SBUnpacked"
